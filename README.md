@@ -9,7 +9,3 @@ This interactive Excel dashboard analyzes global billionaire data:
 - Dynamic slicers and KPIs
 
 > 🔒 This file is shared for viewing only. Please do not modify or redistribute edited versions.
-
-git add index.html
-git commit -m "Added Excel Billionaires Dashboard project to portfolio"
-git push origin main
