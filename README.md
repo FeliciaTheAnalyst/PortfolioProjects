@@ -32,9 +32,23 @@ This project simulates the use of Google Analytics data to analyze website perfo
 - Device category behavior
 - Source/Medium performance
 
-### 🛠 Tools Used:
-- Excel
-- Power BI / Tableau (optional)
-- Google Analytics (simulated)
+📊 Final Dashboard
 
-This is a portfolio project created as part of my data analysis journey. It represents my ability to work with GA-style data even without live site tracking.
+An interactive Excel dashboard was created to visualize the dataset and uncover patterns in traffic behavior.
+
+#### Key Visuals:
+- Pageviews by Traffic Source
+- Bounce Rate by Device Category
+- Goal Conversions by Channel
+- Pageviews & Bounce Rate Correlation
+- Daily Pageviews Trend
+
+📁 **Dashboard File**: `GA_Traffic_Dashboard_Felicia.xlsx`
+
+💡 **Top Insights**:
+- Organic traffic (Google) drives the highest conversions
+- Tablet users show the highest average bounce rate
+- A positive correlation exists between pageviews and bounce rate, suggesting high-traffic pages may have UX gaps
+
+- © 2025 Felicia Mabena. All rights reserved. This project is for educational and portfolio demonstration purposes.
+
