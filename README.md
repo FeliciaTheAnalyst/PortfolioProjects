@@ -43,7 +43,7 @@ An interactive Excel dashboard was created to visualize the dataset and uncover 
 - Pageviews & Bounce Rate Correlation
 - Daily Pageviews Trend
 
-📁 **Dashboard File**: `GA_Traffic_Dashboard_Felicia.xlsx`
+📁 **Dashboard File**: `Google Analysis_Traffic_Dashboard_Felicia.xlsx`
 
 💡 **Top Insights**:
 - Organic traffic (Google) drives the highest conversions
