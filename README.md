@@ -46,6 +46,22 @@ An interactive Excel dashboard was created to visualize the dataset and uncover 
 📁 **Dashboard File**: `Google Analysis_Traffic_Dashboard_Felicia.xlsx`
 
 💡 **Top Insights**:
+
+
+
+## 📊 Power BI – South Africa Unemployment Dashboard (2020–2025 Q1)
+
+**Objective**: Analyze provincial unemployment trends using South African data from 2020 to 2025 Q1.
+
+**Key Insights**:
+- National and provincial unemployment rate trends
+- Top 5 highest and lowest unemployment provinces
+- Interactive visuals (map, bar chart, trend line)
+
+**Tools Used**: Power BI, DAX
+
+📁 File: `SouthAfrica_Unemployment_Analysis_2020_2025.pbix`
+
 - Organic traffic (Google) drives the highest conversions
 - Tablet users show the highest average bounce rate
 - A positive correlation exists between pageviews and bounce rate, suggesting high-traffic pages may have UX gaps
