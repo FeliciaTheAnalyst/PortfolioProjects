@@ -1,70 +1,73 @@
-## 📊 Excel Billionaires Dashboard
+# 📁 PortfolioProjects
 
-- [Download the Dashboard (.xlsx)](./BillionairesDashboard.xlsx)
-
-This interactive Excel dashboard analyzes global billionaire data:
-
-- Net worth by country and industry
-- Age, gender, and region breakdown
-- Dynamic slicers and KPIs
-
-> 🔒 This file is shared for viewing only. Please do not modify or redistribute edited versions.
-
+Welcome to my data analysis portfolio repository!  
+This space showcases my work across **SQL**, **Excel**, **Power BI**, **Tableau**, and **Python**—highlighting real-world business insights through data.
 
 ---
 
-## 📊 Google Analytics Web Traffic Project
+## 📌 Projects Overview
 
-This project simulates the use of Google Analytics data to analyze website performance, user behavior, and goal conversions.
+### 📊 Excel: Billionaires Dashboard
+**File:** `BillionairesDashboard.xlsx`  
+This dashboard provides visual analysis of global billionaires, including:
 
-### 🧠 Objectives:
-- Understand traffic by source/medium
-- Track bounce rates and goal completions
-- Compare engagement across devices (desktop, mobile, tablet)
+- Net worth rankings
+- Industry and country distribution
+- Gender and age comparisons
 
-### 📂 File Included:
-- **GoogleAnalytics_Traffic_Analysis.xlsx** – Mock GA data used for analysis
+---
 
-### 🔍 Key Metrics Explored:
-- Pageviews
-- Bounce rate
-- Goal conversion rate
-- Device category behavior
-- Source/Medium performance
+### 🧹 SQL: Data Cleaning Project
+**File:** `Data Cleaning Portfolio Project Queries.sql.txt`  
+This project uses **SQL queries** to clean a raw housing dataset by:
 
-📊 Final Dashboard
+- Removing duplicates
+- Standardizing date formats
+- Fixing null values and inconsistencies
 
-An interactive Excel dashboard was created to visualize the dataset and uncover patterns in traffic behavior.
+---
 
-#### Key Visuals:
-- Pageviews by Traffic Source
-- Bounce Rate by Device Category
-- Goal Conversions by Channel
-- Pageviews & Bounce Rate Correlation
-- Daily Pageviews Trend
+### 🌐 Excel: Google Analytics Traffic Dashboard
+**Files:**  
+- `GoogleAnalytics_Traffic_Analysis.xlsx`  
+- `Google Analysis_Traffic_Dashboard_Felicia.xlsx`
 
-📁 **Dashboard File**: `Google Analysis_Traffic_Dashboard_Felicia.xlsx`
+These dashboards explore Google Analytics web traffic data. They include:
 
-💡 **Top Insights**:
+- Traffic sources (Organic, Referral, Direct)
+- User behavior and bounce rates
+- Session trends over time
 
+---
 
+### 📈 Power BI: SA Unemployment Dashboard (2020–2025)
+**File:** `SA_Unemployment_Rate_By_Analysis_2020_2025.pbix`  
+This Power BI dashboard provides insights into South Africa’s unemployment rate from 2020–2025:
 
-## 📊 Power BI – South Africa Unemployment Dashboard (2020–2025 Q1)
+- Yearly unemployment trends
+- Gender and age group analysis
+- Province-level comparison
+- Dynamic visuals with filters and slicers
 
-**Objective**: Analyze provincial unemployment trends using South African data from 2020 to 2025 Q1.
+---
 
-**Key Insights**:
-- National and provincial unemployment rate trends
-- Top 5 highest and lowest unemployment provinces
-- Interactive visuals (map, bar chart, trend line)
+## 🧠 Tools & Skills Used
+- **Power BI**
+- **Microsoft Excel**
+- **SQL (PostgreSQL / MySQL)**
+- **Data Visualization**
+- **Data Cleaning & Transformation**
+- **Exploratory Data Analysis (EDA)**
 
-**Tools Used**: Power BI, DAX
+---
 
-📁 File: `SouthAfrica_Unemployment_Analysis_2020_2025.pbix`
+## © Attribution
+© 2025 Felicia The Analyst. All rights reserved.  
+All dashboards are created for learning and portfolio purposes. Please do not copy without credit.
 
-- Organic traffic (Google) drives the highest conversions
-- Tablet users show the highest average bounce rate
-- A positive correlation exists between pageviews and bounce rate, suggesting high-traffic pages may have UX gaps
+---
 
-- © 2025 Felicia Mabena. All rights reserved. This project is for educational and portfolio demonstration purposes.
+## ⭐ Let’s Connect!
+If you find my work valuable or want to collaborate, feel free to [connect with me](#) on LinkedIn or reach out!
+
 
